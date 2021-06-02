@@ -22,3 +22,4 @@ To complete the assignment, please do the following:
 4. MISS UNLIMITED / Passcode</br>
 5. 滅火器(Fire EX.)/ 長途夜車</br>
 6. Classic / MKTO</br>
+7. paparazzi / Lady Gaga</br>
