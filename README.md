@@ -18,4 +18,8 @@ To complete the assignment, please do the following:
 # List of Music
 1. Kanden / Kenshi Yonezu</br>
 2. Identity / Sakanaction</br>
-3. paparazzi / Lady Gaga</br>
+3. Peace Sign / Kenshi Yonezu</br>
+4. MISS UNLIMITED / Passcode</br>
+5. 滅火器(Fire EX.)/ 長途夜車</br>
+6. Classic / MKTO</br>
+7. paparazzi / Lady Gaga</br>
