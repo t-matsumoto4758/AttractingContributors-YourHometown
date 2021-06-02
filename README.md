@@ -16,6 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # List of Music
-Kanden / Yonezu Genshi</br>
-Identity / Sakanaction
-Peace Sign / Kenshi Yonezu
+1. Kanden / Kenshi Yonezu</br>
+2. Identity / Sakanaction</br>
+3. Peace Sign / Kenshi Yonezu</br>
