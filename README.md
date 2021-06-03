@@ -23,3 +23,4 @@ To complete the assignment, please do the following:
 5. 滅火器(Fire EX.)/ 長途夜車</br>
 6. Classic / MKTO</br>
 7. paparazzi / Lady Gaga</br>
+8. かわE(KawaE) / Yabai T-Shirts Yassan
