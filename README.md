@@ -23,4 +23,6 @@ To complete the assignment, please do the following:
 5. 滅火器(Fire EX.)/ 長途夜車</br>
 6. Classic / MKTO</br>
 7. paparazzi / Lady Gaga</br>
-8. Shape of you / Ed sheeran</br>
+8. かわE(KawaE) / Yabai T-Shirts Yassan</br>
+9. Summer in Kagome / Sato Hitomi </br>
+10. Shape of you / Ed sheeran</br>
