@@ -24,3 +24,4 @@ To complete the assignment, please do the following:
 6. Classic / MKTO</br>
 7. paparazzi / Lady Gaga</br>
 8. かわE(KawaE) / Yabai T-Shirts Yassan
+9. Summer in Kagome / Sato Hitomi </br>
