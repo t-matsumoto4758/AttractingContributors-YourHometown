@@ -15,15 +15,13 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project
-Gaol - I want to know your favorite Game so please let me know!!
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Game
-1.CS go
-2.LOL
-3.Nier:Automata
-4.Smash Bros.
-5.Tetris
-6. MahjongSoul
-7. puyopuyo
+# List of Hobby
+1. Atack on Titan
+2. Ghost in the shell
+3. Chihayafuru
+
