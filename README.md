@@ -27,5 +27,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Taylor Alison Swift
 - HONNE
 - Queen
+- Kenshi Yonezu
 - SMAP
 - ONE OK ROCK
