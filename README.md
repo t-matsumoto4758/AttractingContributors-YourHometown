@@ -2,7 +2,7 @@
 I want to know your hometown! please tell me!
 
 # Rule
-Please add your hometown following list!
+Please add your hometown to following list!
 
 # List of Your Hometown
 - Tochigi
