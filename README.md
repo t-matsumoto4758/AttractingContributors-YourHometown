@@ -23,3 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of your favorite alphabet
 - a
 - T
+- k
+- b
+- c
+- b
