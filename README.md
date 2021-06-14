@@ -19,5 +19,5 @@ Please add your hometown to following list!
 - Kagawa
 - Penang
 - ehime
+- Kobe
 - Yokohama
-
