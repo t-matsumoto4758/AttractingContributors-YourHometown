@@ -18,3 +18,5 @@ Please add your hometown following list!
 - Oita
 - Kagawa
 - Penang
+- ehime
+
